@@ -1,4 +1,4 @@
-# Automatically updated by the winget bot at 2026/Aug/30
+# Automatically updated by the winget bot at 2026/Sep/05
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 
 PackageIdentifier: DonutWare.Fladder.Nightly
@@ -23,13 +23,13 @@ Installers:
 - Architecture: x64
   Scope: user
   InstallerUrl: https://github.com/DonutWare/Fladder/releases/download/nightly/Fladder-Windows-0.11.0-nightly-Setup.exe
-  InstallerSha256: 1E68CBC84D1C5B2FEEED1C21609AB6ABD1A8ECA9C0B9295079D205683197EADC
+  InstallerSha256: D4779565EA818709132EB1BCA43261C4F1161A183556C994701F5302D2A890AE
   InstallerSwitches:
     Custom: /CURRENTUSER
 - Architecture: x64
   Scope: machine
   InstallerUrl: https://github.com/DonutWare/Fladder/releases/download/nightly/Fladder-Windows-0.11.0-nightly-Setup.exe
-  InstallerSha256: 1E68CBC84D1C5B2FEEED1C21609AB6ABD1A8ECA9C0B9295079D205683197EADC
+  InstallerSha256: D4779565EA818709132EB1BCA43261C4F1161A183556C994701F5302D2A890AE
   InstallerSwitches:
     Custom: /ALLUSERS
   InstallationMetadata:

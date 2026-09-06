@@ -6,18 +6,18 @@ PackageVersion: 26.11.70
 InstallerType: nullsoft
 UpgradeBehavior: install
 ProductCode: Konsole
-ReleaseDate: 2026-08-31
+ReleaseDate: 2026-09-04
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-5262-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: DC755D45E25F7F0042B1908B5902DB7C756E0CAB7AD5158D6C44A96DF8A180DF
+  InstallerUrl: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-5277-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: C477809BE3B1F9E1795A4E3B49668EFD3AA3258BB662B1CAA45EA3E1D101FE26
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-5262-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: DC755D45E25F7F0042B1908B5902DB7C756E0CAB7AD5158D6C44A96DF8A180DF
+  InstallerUrl: https://cdn.kde.org/ci-builds/utilities/konsole/master/windows/konsole-master-5277-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: C477809BE3B1F9E1795A4E3B49668EFD3AA3258BB662B1CAA45EA3E1D101FE26
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
